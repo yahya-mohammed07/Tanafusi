@@ -9,7 +9,6 @@ function App() {
         </main>
 
         <footer className="mt-auto text-center bg-blue-100">
-          {" "}
           <span className="font-semibold ">
             <a
               className="hover:bg-pink-300"
